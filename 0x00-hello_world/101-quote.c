@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - UNIX is basically a simple operating system
- * Return 1 (Success)
+ * main - A c program that prints a line to a standard error
+ * Return: Always 1 (Error)
  */
 int main(void)
 {
