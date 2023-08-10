@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Size is not grandeur and territory does not make a nation printf f function
+ * main - A program that print a line using the printf function
  * Return: 0 (Good)
  */
 int main(void)
