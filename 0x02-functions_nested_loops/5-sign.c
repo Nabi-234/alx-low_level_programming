@@ -19,10 +19,10 @@ else if (n == 0)
 _putchar('0');
 return (0);
 }
-else if (n < 0) // Missing opening curly brace for the else if block
+else if (n < 0)
 {
 _putchar('-');
 return (-1);
 }
-// Missing closing curly brace for the else if block
+return (0); // Add a default return value if none of the conditions match
 }
