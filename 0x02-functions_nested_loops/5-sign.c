@@ -24,5 +24,6 @@ else if (n < 0)
 _putchar('-');
 return (-1);
 }
-return (0); // Add a default return value if none of the conditions match
+/* Add a default return value if none of the conditions match */
+return (0);
 }
