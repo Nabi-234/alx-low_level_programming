@@ -1,3 +1,1 @@
-# Positive or Negative Random Number Checker
-
-This is a simple C program
+0x15. C - File I/O
